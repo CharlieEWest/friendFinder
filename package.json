@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieEWest/friendFinder.git"
+  },
+  "author": "char",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieEWest/friendFinder/issues"
+  },
+  "homepage": "https://github.com/CharlieEWest/friendFinder#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "parser": "^0.1.4",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "find"
+  ]
+}
